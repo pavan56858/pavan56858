@@ -7,7 +7,7 @@
 
 ---
 
-![Behind The Code](https://capsule-render.vercel.app/api?type=rounded&color=0:36BCF7,100:8968CF&height=80&section=header&text=Behind%20The%20Code&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=🚀&descAlignY=80&animation=fadeIn)
+## 🚀 Behind The Code
 
 - 🔭 **Currently working on:** CloudVault and real-time collaborative web applications
 - 👯 **Looking to collaborate on:** open-source AI, full-stack, and cloud projects
@@ -18,7 +18,7 @@
 
 ---
 
-![Let's Link Up](https://capsule-render.vercel.app/api?type=rounded&color=0:8968CF,100:E4405F&height=80&section=header&text=Let's%20Link%20Up&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=🌐&descAlignY=80&animation=fadeIn)
+## 🌐 Let's Link Up
 
 <p align="left">
   <a href="https://instagram.com/pavan.56858" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-![My Coding Arsenal](https://capsule-render.vercel.app/api?type=rounded&color=0:E4405F,100:FF9900&height=75&section=header&text=My%20Coding%20Arsenal&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+## 🛠️ My Coding Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-![Crafting The Experience](https://capsule-render.vercel.app/api?type=rounded&color=0:FF9900,100:F5788D&height=75&section=header&text=Crafting%20The%20Experience&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+## ⚙️ Crafting The Experience
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
 
-![Powering The Engine](https://capsule-render.vercel.app/api?type=rounded&color=0:F5788D,100:6DB33F&height=75&section=header&text=Powering%20The%20Engine&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+## 🖥️ Powering The Engine
 
 <p align="left">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 </p>
 
-![Scaling It Up](https://capsule-render.vercel.app/api?type=rounded&color=0:6DB33F,100:0072C6&height=75&section=header&text=Scaling%20It%20Up&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=☁️&descAlignY=80&animation=fadeIn)
+## ☁️ Scaling It Up
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/>
 </p>
 
-![Exploring The Frontier](https://capsule-render.vercel.app/api?type=rounded&color=0:0072C6,100:EE4C2C&height=75&section=header&text=Exploring%20The%20Frontier&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=🤖&descAlignY=80&animation=fadeIn)
+## 🤖 Exploring The Frontier
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
 
-![Beyond The Code](https://capsule-render.vercel.app/api?type=rounded&color=0:EE4C2C,100:31A8FF&height=75&section=header&text=Beyond%20The%20Code&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=🎨&descAlignY=80&animation=fadeIn)
+## 🎨 Beyond The Code
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
-![My Toolbox](https://capsule-render.vercel.app/api?type=rounded&color=0:31A8FF,100:F05033&height=75&section=header&text=My%20Toolbox&fontSize=28&fontColor=ffffff&fontAlignY=55&desc=🧰&descAlignY=80&animation=fadeIn)
+## 🧰 My Toolbox
 
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -134,7 +134,7 @@
 
 ---
 
-![By The Numbers](https://capsule-render.vercel.app/api?type=rounded&color=0:F05033,100:36BCF7&height=80&section=header&text=By%20The%20Numbers&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=📊&descAlignY=80&animation=fadeIn)
+## 📊 By The Numbers
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=pavan56858&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
