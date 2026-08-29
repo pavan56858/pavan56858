@@ -7,7 +7,7 @@
 
 ---
 
-![About Me](https://capsule-render.vercel.app/api?type=rounded&color=0:36BCF7,100:8968CF&height=80&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=🚀&descAlignY=80&animation=fadeIn)
+![Behind The Code](https://capsule-render.vercel.app/api?type=rounded&color=0:36BCF7,100:8968CF&height=80&section=header&text=Behind%20The%20Code&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=🚀&descAlignY=80&animation=fadeIn)
 
 - 🔭 **Currently working on:** CloudVault and real-time collaborative web applications
 - 👯 **Looking to collaborate on:** open-source AI, full-stack, and cloud projects
@@ -18,7 +18,7 @@
 
 ---
 
-![Connect With Me](https://capsule-render.vercel.app/api?type=rounded&color=0:8968CF,100:E4405F&height=80&section=header&text=Connect%20With%20Me&fontSize=32&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![Let's Link Up](https://capsule-render.vercel.app/api?type=rounded&color=0:8968CF,100:E4405F&height=80&section=header&text=Let's%20Link%20Up&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=🌐&descAlignY=80&animation=fadeIn)
 
 <p align="left">
   <a href="https://instagram.com/pavan.56858" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-![Languages & Frameworks](https://capsule-render.vercel.app/api?type=rounded&color=0:E4405F,100:FF9900&height=75&section=header&text=Languages%20%26%20Frameworks&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![My Coding Arsenal](https://capsule-render.vercel.app/api?type=rounded&color=0:E4405F,100:FF9900&height=75&section=header&text=My%20Coding%20Arsenal&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-![Frontend & Frameworks](https://capsule-render.vercel.app/api?type=rounded&color=0:FF9900,100:F5788D&height=75&section=header&text=Frontend%20%26%20Frameworks&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![Crafting The Experience](https://capsule-render.vercel.app/api?type=rounded&color=0:FF9900,100:F5788D&height=75&section=header&text=Crafting%20The%20Experience&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
 
-![Backend & APIs](https://capsule-render.vercel.app/api?type=rounded&color=0:F5788D,100:6DB33F&height=75&section=header&text=Backend%20%26%20APIs&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![Powering The Engine](https://capsule-render.vercel.app/api?type=rounded&color=0:F5788D,100:6DB33F&height=75&section=header&text=Powering%20The%20Engine&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
 
 <p align="left">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 </p>
 
-![Cloud, DevOps & Databases](https://capsule-render.vercel.app/api?type=rounded&color=0:6DB33F,100:0072C6&height=75&section=header&text=Cloud%2C%20DevOps%20%26%20Databases&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![Scaling It Up](https://capsule-render.vercel.app/api?type=rounded&color=0:6DB33F,100:0072C6&height=75&section=header&text=Scaling%20It%20Up&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=☁️&descAlignY=80&animation=fadeIn)
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/>
 </p>
 
-![AI, Data & Web3](https://capsule-render.vercel.app/api?type=rounded&color=0:0072C6,100:EE4C2C&height=75&section=header&text=AI%2C%20Data%20%26%20Web3&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![Exploring The Frontier](https://capsule-render.vercel.app/api?type=rounded&color=0:0072C6,100:EE4C2C&height=75&section=header&text=Exploring%20The%20Frontier&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=🤖&descAlignY=80&animation=fadeIn)
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
 
-![Design & Creative Tools](https://capsule-render.vercel.app/api?type=rounded&color=0:EE4C2C,100:31A8FF&height=75&section=header&text=Design%20%26%20Creative%20Tools&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![Beyond The Code](https://capsule-render.vercel.app/api?type=rounded&color=0:EE4C2C,100:31A8FF&height=75&section=header&text=Beyond%20The%20Code&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=🎨&descAlignY=80&animation=fadeIn)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
-![Tools & Platforms](https://capsule-render.vercel.app/api?type=rounded&color=0:31A8FF,100:F05033&height=75&section=header&text=Tools%20%26%20Platforms&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![My Toolbox](https://capsule-render.vercel.app/api?type=rounded&color=0:31A8FF,100:F05033&height=75&section=header&text=My%20Toolbox&fontSize=28&fontColor=ffffff&fontAlignY=55&desc=🧰&descAlignY=80&animation=fadeIn)
 
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -134,7 +134,7 @@
 
 ---
 
-![GitHub Stats](https://capsule-render.vercel.app/api?type=rounded&color=0:F05033,100:36BCF7&height=80&section=header&text=GitHub%20Stats&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=📊&descAlignY=80&animation=fadeIn)
+![By The Numbers](https://capsule-render.vercel.app/api?type=rounded&color=0:F05033,100:36BCF7&height=80&section=header&text=By%20The%20Numbers&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=📊&descAlignY=80&animation=fadeIn)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=pavan56858&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
