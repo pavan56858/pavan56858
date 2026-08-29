@@ -21,7 +21,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/pavan56858" target="_blank">
+  <a href="https://instagram.com/pavan.56858" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://pinterest.com/pavankumar1292004" target="_blank">
